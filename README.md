@@ -1,2 +1,2 @@
-# php
-practicaphp
+# practicaphp
+practica de php
